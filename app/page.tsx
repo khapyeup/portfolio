@@ -1,4 +1,3 @@
-import Navbar from "@/components/navbar";
 import Image from "next/image";
 
 export default function Page() {
@@ -29,7 +28,7 @@ export default function Page() {
       </div>
       <footer className="text-center">
         <div className=" relative inline-block">
-          <span className="text-4xl absolute top-[-10px] left-2">"</span>
+          
           <p className="border border-gray-500 text-xl p-4 tracking-wider ">
             With great power comes great electricity bill
           </p>
